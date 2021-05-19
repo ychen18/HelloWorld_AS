@@ -10,13 +10,19 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello Techies Team!"
-        android:textSize="32sp" />
+        android:text="Techies Robotics Team Roster"
+        android:textSize="24sp" />
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello Coach Karen and Coach Yan! - input by Charles"
-        android:textSize="24sp" />
+        android:text="Coach Karen"
+        android:textSize="18sp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Coach Yan"
+        android:textSize="18sp" />
 
 </LinearLayout>
