@@ -31,4 +31,9 @@
         android:text="Hi I'm Aaron"
         android:textSize="18sp" />
 
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Nathan's here"
+        android:textSize="18sp" />
 </LinearLayout>
